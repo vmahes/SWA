@@ -1,0 +1,151 @@
+Mar 20, 2018 10:07:45 AM org.apache.tomcat.util.digester.SetPropertiesRule begin
+WARNING: [SetPropertiesRule]{Server/Service/Engine/Host/Context} Setting property 'source' to 'org.eclipse.jst.jee.server:SoapWithAttachment' did not find a matching property.
+Mar 20, 2018 10:07:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/8.5.28
+Mar 20, 2018 10:07:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Feb 6 2018 23:10:25 UTC
+Mar 20, 2018 10:07:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         8.5.28.0
+Mar 20, 2018 10:07:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 7
+Mar 20, 2018 10:07:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            6.1
+Mar 20, 2018 10:07:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          x86
+Mar 20, 2018 10:07:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             C:\Program Files\Java\jdk1.8.0_161\jre
+Mar 20, 2018 10:07:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_161-b12
+Mar 20, 2018 10:07:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Mar 20, 2018 10:07:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         C:\Users\mv655331\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0
+Mar 20, 2018 10:07:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 8.5
+Mar 20, 2018 10:07:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=C:\Users\mv655331\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0
+Mar 20, 2018 10:07:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 8.5
+Mar 20, 2018 10:07:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dwtp.deploy=C:\Users\mv655331\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps
+Mar 20, 2018 10:07:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=C:\Program Files\Apache Software Foundation\Tomcat 8.5\endorsed
+Mar 20, 2018 10:07:45 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dfile.encoding=Cp1252
+Mar 20, 2018 10:07:45 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_161\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jdk1.8.0_161/bin/../jre/bin/client;C:/Program Files/Java/jdk1.8.0_161/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_161/bin/../jre/lib/i386;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Intel\iCLS Client\;C:\Program Files\Common Files\Microsoft Shared\Microsoft Online Services;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk1.8.0_161\bin;D:\Mahes CG\Java\eclipse;;.]
+Mar 20, 2018 10:07:46 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-9080"]
+Mar 20, 2018 10:07:47 AM org.apache.tomcat.util.net.NioSelectorPool getSharedSelector
+INFO: Using a shared selector for servlet write/read
+Mar 20, 2018 10:07:47 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-nio-8010"]
+Mar 20, 2018 10:07:47 AM org.apache.tomcat.util.net.NioSelectorPool getSharedSelector
+INFO: Using a shared selector for servlet write/read
+Mar 20, 2018 10:07:47 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 2967 ms
+Mar 20, 2018 10:07:47 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Catalina]
+Mar 20, 2018 10:07:47 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/8.5.28
+Mar 20, 2018 10:07:54 AM org.apache.jasper.servlet.TldScanner scanJars
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 20, 2018 10:08:00 AM org.apache.jasper.servlet.TldScanner scanJars
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 20, 2018 10:08:00 AM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Mar 20, 2018 10:08:00 AM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring root WebApplicationContext
+Mar 20, 2018 10:08:00 AM org.springframework.web.context.ContextLoader initWebApplicationContext
+INFO: Root WebApplicationContext: initialization started
+Mar 20, 2018 10:08:01 AM org.springframework.web.context.support.XmlWebApplicationContext prepareRefresh
+INFO: Refreshing Root WebApplicationContext: startup date [Tue Mar 20 10:08:01 CDT 2018]; root of context hierarchy
+Mar 20, 2018 10:08:01 AM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from ServletContext resource [/WEB-INF/cxf.xml]
+Mar 20, 2018 10:08:01 AM org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean buildServiceFromClass
+INFO: Creating Service {http://WS.SWA.mahes.com/}FileManager from class com.mahes.SWA.WS.FileManager
+Mar 20, 2018 10:08:03 AM org.apache.cxf.endpoint.ServerImpl initDestination
+INFO: Setting the server's publish address to be /fileManager
+Mar 20, 2018 10:08:03 AM org.springframework.web.context.ContextLoader initWebApplicationContext
+INFO: Root WebApplicationContext: initialization completed in 2123 ms
+Mar 20, 2018 10:08:03 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-9080"]
+Mar 20, 2018 10:08:03 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-nio-8010"]
+Mar 20, 2018 10:08:03 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 15873 ms
+Mar 20, 2018 10:11:30 AM org.apache.cxf.phase.PhaseInterceptorChain doDefaultLogging
+WARNING: Interceptor for {http://WS.SWA.mahes.com/}FileManager#{http://WS.SWA.mahes.com/}ReceiveAttachment has thrown exception, unwinding now
+org.apache.cxf.interceptor.Fault: Unmarshalling Error: Unable to create an instance of javax.xml.soap.AttachmentPart 
+	at org.apache.cxf.jaxb.JAXBEncoderDecoder.unmarshall(JAXBEncoderDecoder.java:908)
+	at org.apache.cxf.jaxb.JAXBEncoderDecoder.unmarshall(JAXBEncoderDecoder.java:714)
+	at org.apache.cxf.jaxb.io.DataReaderImpl.read(DataReaderImpl.java:179)
+	at org.apache.cxf.wsdl.interceptors.DocLiteralInInterceptor.handleMessage(DocLiteralInInterceptor.java:109)
+	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)
+	at org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)
+	at org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:262)
+	at org.apache.cxf.transport.servlet.ServletController.invokeDestination(ServletController.java:234)
+	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:208)
+	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:160)
+	at org.apache.cxf.transport.servlet.CXFNonSpringServlet.invoke(CXFNonSpringServlet.java:180)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.handleRequest(AbstractHTTPServlet.java:299)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.doPost(AbstractHTTPServlet.java:218)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:661)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.service(AbstractHTTPServlet.java:274)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1459)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: javax.xml.bind.UnmarshalException
+ - with linked exception:
+[com.sun.istack.SAXParseException2; lineNumber: 6; columnNumber: 10; Unable to create an instance of javax.xml.soap.AttachmentPart]
+	at com.sun.xml.bind.v2.runtime.unmarshaller.UnmarshallerImpl.handleStreamException(UnmarshallerImpl.java:483)
+	at com.sun.xml.bind.v2.runtime.unmarshaller.UnmarshallerImpl.unmarshal0(UnmarshallerImpl.java:417)
+	at com.sun.xml.bind.v2.runtime.unmarshaller.UnmarshallerImpl.unmarshal(UnmarshallerImpl.java:394)
+	at org.apache.cxf.jaxb.JAXBEncoderDecoder.doUnmarshal(JAXBEncoderDecoder.java:857)
+	at org.apache.cxf.jaxb.JAXBEncoderDecoder.access$100(JAXBEncoderDecoder.java:102)
+	at org.apache.cxf.jaxb.JAXBEncoderDecoder$2.run(JAXBEncoderDecoder.java:896)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.apache.cxf.jaxb.JAXBEncoderDecoder.unmarshall(JAXBEncoderDecoder.java:894)
+	... 35 more
+Caused by: com.sun.istack.SAXParseException2; lineNumber: 6; columnNumber: 10; Unable to create an instance of javax.xml.soap.AttachmentPart
+	at com.sun.xml.bind.v2.runtime.unmarshaller.UnmarshallingContext.handleEvent(UnmarshallingContext.java:740)
+	at com.sun.xml.bind.v2.runtime.unmarshaller.Loader.reportError(Loader.java:262)
+	at com.sun.xml.bind.v2.runtime.unmarshaller.UnmarshallingContext.createInstance(UnmarshallingContext.java:707)
+	at com.sun.xml.bind.v2.runtime.unmarshaller.StructureLoader.startElement(StructureLoader.java:186)
+	at com.sun.xml.bind.v2.runtime.unmarshaller.UnmarshallingContext._startElement(UnmarshallingContext.java:576)
+	at com.sun.xml.bind.v2.runtime.unmarshaller.UnmarshallingContext.startElement(UnmarshallingContext.java:555)
+	at com.sun.xml.bind.v2.runtime.unmarshaller.MTOMDecorator.startElement(MTOMDecorator.java:111)
+	at com.sun.xml.bind.v2.runtime.unmarshaller.StAXStreamConnector.handleStartElement(StAXStreamConnector.java:246)
+	at com.sun.xml.bind.v2.runtime.unmarshaller.StAXStreamConnector.bridge(StAXStreamConnector.java:180)
+	at com.sun.xml.bind.v2.runtime.unmarshaller.UnmarshallerImpl.unmarshal0(UnmarshallerImpl.java:415)
+	... 41 more
+Caused by: javax.xml.bind.UnmarshalException: Unable to create an instance of javax.xml.soap.AttachmentPart
+ - with linked exception:
+[java.lang.InstantiationException]
+	... 51 more
+Caused by: java.lang.InstantiationException
+	at sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(InstantiationExceptionConstructorAccessorImpl.java:48)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.sun.xml.bind.v2.ClassFactory.create0(ClassFactory.java:133)
+	at com.sun.xml.bind.v2.runtime.ClassBeanInfoImpl.createInstance(ClassBeanInfoImpl.java:285)
+	at com.sun.xml.bind.v2.runtime.unmarshaller.UnmarshallingContext.createInstance(UnmarshallingContext.java:701)
+	... 48 more
+
